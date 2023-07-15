@@ -1,6 +1,6 @@
-<!---
 - hi, I’m @locklynch
-- i have no idea what i'm doing!
+- i have no idea what i'm doing! Eyoooo!
+<!---
 - i have a few goals here, to become proficient in a few different things
   - javascript (and typescript)
   - rust
