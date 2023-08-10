@@ -1,4 +1,4 @@
-- hi, I’m @lock
+- hi, I’m Lock
 - i have no idea what i'm doing! Eyoooo!
 <!---
 - i have a few goals here, to become proficient in a few different things
